@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "g:/exps/ds实验报告/exp114514 utilmate 期末课设/期末课设/我的/最终打包_张喻_2097/项目工程文件_张喻_2097/Why",
+      "program": "g:/exps/ds实验报告/exp114514 utilmate 期末课设/期末课设/我的/最终打包_张喻_2097/项目工程文件_张喻_2097/Why/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

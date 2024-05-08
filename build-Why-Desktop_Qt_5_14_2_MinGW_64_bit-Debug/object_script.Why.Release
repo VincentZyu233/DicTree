@@ -1,0 +1,12 @@
+release/LibReader.o
+release/initwordlibrarydialog.o
+release/inputspellingcheck.o
+release/main.o
+release/mainwindow.o
+release/my_dictree.o
+release/searchwordlibdialog.o
+release/moc_LibReader.o
+release/moc_initwordlibrarydialog.o
+release/moc_inputspellingcheck.o
+release/moc_mainwindow.o
+release/moc_searchwordlibdialog.o

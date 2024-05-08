@@ -1,0 +1,12 @@
+debug/LibReader.o
+debug/initwordlibrarydialog.o
+debug/inputspellingcheck.o
+debug/main.o
+debug/mainwindow.o
+debug/my_dictree.o
+debug/searchwordlibdialog.o
+debug/moc_LibReader.o
+debug/moc_initwordlibrarydialog.o
+debug/moc_inputspellingcheck.o
+debug/moc_mainwindow.o
+debug/moc_searchwordlibdialog.o
